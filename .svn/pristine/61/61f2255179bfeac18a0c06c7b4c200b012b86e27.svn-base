@@ -1,0 +1,6 @@
+__pycache__/
+config/*
+scripts/*
+gunicorn_config.py
+.idea
+.vscode
